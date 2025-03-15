@@ -11,7 +11,7 @@ This data is from the Aarhus University Signal Processing group, in collaboratio
 ### The data file names are:
 
 images.npy
-Label.csv
+Label.csv https://drive.google.com/file/d/1IUToZ93t08httPfvqpUKlSkOHMcQEh20/view?usp=sharing
 Due to the large volume of data, the images were converted to the images.npy file and the labels are also put into Labels.csv.
 
 The goal of the project is to create a classifier capable of determining a plant's species from an image.
